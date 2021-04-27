@@ -1,0 +1,13 @@
+body {
+  background-color: #000;
+  color: #fff;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+div#llista {
+  width: 100%;
+}
