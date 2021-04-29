@@ -1,0 +1,37 @@
+
+
+dn: ou=admins,dc=saia,dc=cat
+objectClass: organizationalUnit
+objectClass: top
+ou: admins
+
+dn: ou=actius,dc=saia,dc=cat
+objectClass: organizationalUnit
+objectClass: top
+ou: actius
+
+dn: ou=passius,dc=saia,dc=cat
+objectClass: organizationalUnit
+objectClass: top
+ou: passius
+
+dn: ou=usuaris,ou=actius,dc=saia,dc=cat
+objectClass: organizationalUnit
+objectClass: top
+ou: usuaris
+
+dn: ou=grups,ou=actius,dc=saia,dc=cat
+objectClass: organizationalUnit
+objectClass: top
+ou: grups
+
+dn: ou=usuaris,ou=passius,dc=saia,dc=cat
+objectClass: organizationalUnit
+objectClass: top
+ou: usuaris
+
+
+dn: ou=grups,ou=passius,dc=saia,dc=cat
+objectClass: organizationalUnit
+objectClass: top
+ou: grups

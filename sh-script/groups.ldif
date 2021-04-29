@@ -1,0 +1,70 @@
+
+
+dn: cn=direccio,ou=admins,dc=saia,dc=cat
+gidNumber: 500
+cn: direcció
+objectClass: posixGroup
+objectClass: top
+
+
+dn: cn=recerca,ou=grups,ou=actius,dc=saia,dc=cat
+gidNumber: 501
+cn: recerca
+objectClass: posixGroup
+objectClass: top
+
+
+dn: cn=desemvolupament,ou=grups,ou=actius,dc=saia,dc=cat
+gidNumber: 502
+cn: desemvolupament
+objectClass: posixGroup
+objectClass: top
+
+
+dn: cn=entseg,ou=grups,ou=actius,dc=saia,dc=cat
+gidNumber: 503
+cn: entseg
+objectClass: posixGroup
+objectClass: top
+
+
+dn: cn=leaaddevs,ou=grups,ou=actius,dc=saia,dc=cat
+gidNumber: 504
+cn: leaaddevs
+objectClass: posixGroup
+objectClass: top
+
+
+dn: cn=altres,ou=grups,ou=passius,dc=saia,dc=cat
+gidNumber: 505
+cn: altres
+objectClass: posixGroup
+objectClass: top
+
+
+dn: cn=recepcio,ou=grups,ou=passius,dc=saia,dc=cat
+gidNumber: 506
+cn: recepcio
+objectClass: posixGroup
+objectClass: top
+
+
+dn: cn=comptables,ou=grups,ou=passius,dc=saia,dc=cat
+gidNumber: 507
+cn: comptables
+objectClass: posixGroup
+objectClass: top
+
+
+dn: cn=recuros-humans,ou=grups,ou=passius,dc=saia,dc=cat
+gidNumber: 508
+cn: recuros-humans
+objectClass: posixGroup
+objectClass: top
+
+
+dn: cn=relacions-publiques,ou=grups,ou=passius,dc=saia,dc=cat
+gidNumber: 509
+cn: relacions-publiques
+objectClass: posixGroup
+objectClass: top

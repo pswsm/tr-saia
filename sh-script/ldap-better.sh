@@ -50,7 +50,7 @@ do
 			read -s contrasenya
 			ldapadd -x -w $contrasenya -D $(cat $fadmin) -f $fusers
 			read -p "Prem ENTER"
-			rm $fusers
+			#rm $fusers
 				;;
 			2 )
 			#Load OUs
@@ -59,7 +59,7 @@ do
 			read -s contrasenya
 			ldapadd -x -w $contrasenya -D $(cat $fadmin) -f $fuos
 			read -p "Prem ENTER"
-			rm $fuos
+			#rm $fuos
 				;;
 			3 )
 			#Load Groups
@@ -68,7 +68,7 @@ do
 			read -s contrasenya
 			ldapadd -x -w $contrasenya -D $(cat $fadmin) -f $fgroups
 			read -p "Prem ENTER"
-			rm $fgroups
+			#rm $fgroups
 				;;
 			4 )
 			#Load All
@@ -78,7 +78,7 @@ do
 			cat $fuos $fgroups $fusers > $fall
 			ldapadd -x -w $contrasenya -D $(cat $fadmin) -f $fall
 			read -p "Prem ENTER"
-			rm $fuos $fall $fgroups $fusers
+			#rm $fuos $fall $fgroups $fusers
 				;;
 		esac
 			;;

@@ -1,0 +1,1396 @@
+
+
+
+dn: cn=Pol Taugourdeau,ou=admins,dc=saia,dc=cat
+cn: Pol Taugourdeau
+givenName: Pol
+gidNumber: 500
+homeDirectory: /home/users/ptaugourdeau
+sn: Taugourdeau
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1001
+uid: ptaugourdeau
+
+
+
+dn: cn=Pau Figueras,ou=admins,dc=saia,dc=cat
+cn: Pau Figueras
+givenName: Pau
+gidNumber: 500
+homeDirectory: /home/users/pfigueras
+sn: Figueras
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1002
+uid: pfigueras
+
+
+
+dn: cn=Gabriel Figueras,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Gabriel Figueras
+givenName: Gabriel
+gidNumber: 501
+homeDirectory: /home/users/gfigueras
+sn: Figueras
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1003
+uid: gfigueras
+
+
+
+dn: cn=axi mx,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: axi mx
+givenName: axi
+gidNumber: 501
+homeDirectory: /home/users/amx
+sn: mx
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1004
+uid: amx
+
+
+
+dn: cn=jhon Doe,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: jhon Doe
+givenName: jhon
+gidNumber: 501
+homeDirectory: /home/users/jdoe
+sn: Doe
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1005
+uid: jdoe
+
+
+
+dn: cn=Steffen Klassert,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Steffen Klassert
+givenName: Steffen
+gidNumber: 501
+homeDirectory: /home/users/sklassert
+sn: Klassert
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1006
+uid: sklassert
+
+
+
+dn: cn=Adam Radford,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Adam Radford
+givenName: Adam
+gidNumber: 501
+homeDirectory: /home/users/aradford
+sn: Radford
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1007
+uid: aradford
+
+
+
+dn: cn=johnannes Berg,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: johnannes Berg
+givenName: johnannes
+gidNumber: 501
+homeDirectory: /home/users/jberg
+sn: Berg
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1008
+uid: jberg
+
+
+
+dn: cn=Shigeru Miyamoto,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Shigeru Miyamoto
+givenName: Shigeru
+gidNumber: 501
+homeDirectory: /home/users/smiyamoto
+sn: Miyamoto
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1009
+uid: smiyamoto
+
+
+
+dn: cn=Lisa Su,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Lisa Su
+givenName: Lisa
+gidNumber: 501
+homeDirectory: /home/users/lsu
+sn: Su
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1010
+uid: lsu
+
+
+
+dn: cn=Sumit Semwal,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Sumit Semwal
+givenName: Sumit
+gidNumber: 501
+homeDirectory: /home/users/ssemwal
+sn: Semwal
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1011
+uid: ssemwal
+
+
+
+dn: cn=Miu Kaito,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Miu Kaito
+givenName: Miu
+gidNumber: 501
+homeDirectory: /home/users/mkaito
+sn: Kaito
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1012
+uid: mkaito
+
+
+
+dn: cn=Barry Song,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Barry Song
+givenName: Barry
+gidNumber: 501
+homeDirectory: /home/users/bsong
+sn: Song
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1013
+uid: bsong
+
+
+
+dn: cn=Miki Honda,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Miki Honda
+givenName: Miki
+gidNumber: 501
+homeDirectory: /home/users/mhonda
+sn: Honda
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1014
+uid: mhonda
+
+
+
+dn: cn=Sakari Ailus,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Sakari Ailus
+givenName: Sakari
+gidNumber: 501
+homeDirectory: /home/users/sailus
+sn: Ailus
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1015
+uid: sailus
+
+
+
+dn: cn=Takashi Sakamoto,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Takashi Sakamoto
+givenName: Takashi
+gidNumber: 501
+homeDirectory: /home/users/tsakamoto
+sn: Sakamoto
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1016
+uid: tsakamoto
+
+
+
+dn: cn=Yoshi Sato,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Yoshi Sato
+givenName: Yoshi
+gidNumber: 501
+homeDirectory: /home/users/ysato
+sn: Sato
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1017
+uid: ysato
+
+
+
+dn: cn=Kei izumi,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Kei izumi
+givenName: Kei
+gidNumber: 501
+homeDirectory: /home/users/kizumi
+sn: izumi
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1018
+uid: kizumi
+
+
+
+dn: cn=Koji Ryoichi,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Koji Ryoichi
+givenName: Koji
+gidNumber: 501
+homeDirectory: /home/users/kryoichi
+sn: Ryoichi
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1019
+uid: kryoichi
+
+
+
+dn: cn=Kyoko Hiroshi,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Kyoko Hiroshi
+givenName: Kyoko
+gidNumber: 501
+homeDirectory: /home/users/khiroshi
+sn: Hiroshi
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1020
+uid: khiroshi
+
+
+
+dn: cn=Yokota Yuuki,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Yokota Yuuki
+givenName: Yokota
+gidNumber: 501
+homeDirectory: /home/users/yyuuki
+sn: Yuuki
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1021
+uid: yyuuki
+
+
+
+dn: cn=Yuuta Hiroshi,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Yuuta Hiroshi
+givenName: Yuuta
+gidNumber: 501
+homeDirectory: /home/users/yhiroshi
+sn: Hiroshi
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1022
+uid: yhiroshi
+
+
+
+dn: cn=Goto Hiroki,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Goto Hiroki
+givenName: Goto
+gidNumber: 501
+homeDirectory: /home/users/ghiroki
+sn: Hiroki
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1023
+uid: ghiroki
+
+
+
+dn: cn=Yutta Tarou,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Yutta Tarou
+givenName: Yutta
+gidNumber: 501
+homeDirectory: /home/users/ytarou
+sn: Tarou
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1024
+uid: ytarou
+
+
+
+dn: cn=Genis Artur,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Genis Artur
+givenName: Genis
+gidNumber: 501
+homeDirectory: /home/users/gartur
+sn: Artur
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1025
+uid: gartur
+
+
+
+dn: cn=Gemma Marti,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Gemma Marti
+givenName: Gemma
+gidNumber: 501
+homeDirectory: /home/users/gmarti
+sn: Marti
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1026
+uid: gmarti
+
+
+
+dn: cn=Juurou Saburo,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Juurou Saburo
+givenName: Juurou
+gidNumber: 502
+homeDirectory: /home/users/jsaburo
+sn: Saburo
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1027
+uid: jsaburo
+
+
+
+dn: cn=Osamu Fun-Tan,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Osamu Fun-Tan
+givenName: Osamu
+gidNumber: 502
+homeDirectory: /home/users/ofun-tan
+sn: Fun-Tan
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1028
+uid: ofun-tan
+
+
+
+dn: cn=Pol Puiggros,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Pol Puiggros
+givenName: Pol
+gidNumber: 502
+homeDirectory: /home/users/ppuiggros
+sn: Puiggros
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1029
+uid: ppuiggros
+
+
+
+dn: cn=Antoni Morote,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Antoni Morote
+givenName: Antoni
+gidNumber: 502
+homeDirectory: /home/users/amorote
+sn: Morote
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1030
+uid: amorote
+
+
+
+dn: cn=Kyou Masao,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Kyou Masao
+givenName: Kyou
+gidNumber: 502
+homeDirectory: /home/users/kmasao
+sn: Masao
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1031
+uid: kmasao
+
+
+
+dn: cn=kenshin Marino,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: kenshin Marino
+givenName: kenshin
+gidNumber: 502
+homeDirectory: /home/users/kmarino
+sn: Marino
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1032
+uid: kmarino
+
+
+
+dn: cn=Toni Daplas,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Toni Daplas
+givenName: Toni
+gidNumber: 502
+homeDirectory: /home/users/tdaplas
+sn: Daplas
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1033
+uid: tdaplas
+
+
+
+dn: cn=Valeria Olmo,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Valeria Olmo
+givenName: Valeria
+gidNumber: 502
+homeDirectory: /home/users/volmo
+sn: Olmo
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1034
+uid: volmo
+
+
+
+dn: cn=Dimitri Ribes,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Dimitri Ribes
+givenName: Dimitri
+gidNumber: 502
+homeDirectory: /home/users/dribes
+sn: Ribes
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1035
+uid: dribes
+
+
+
+dn: cn=Ichirou Miyajima,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Ichirou Miyajima
+givenName: Ichirou
+gidNumber: 502
+homeDirectory: /home/users/imiyajima
+sn: Miyajima
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1036
+uid: imiyajima
+
+
+
+dn: cn=Link Link,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Link Link
+givenName: Link
+gidNumber: 502
+homeDirectory: /home/users/llink
+sn: Link
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1037
+uid: llink
+
+
+
+dn: cn=Vitali Huerta,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Vitali Huerta
+givenName: Vitali
+gidNumber: 502
+homeDirectory: /home/users/vhuerta
+sn: Huerta
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1038
+uid: vhuerta
+
+
+
+dn: cn=Zelda Rhoam,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Zelda Rhoam
+givenName: Zelda
+gidNumber: 502
+homeDirectory: /home/users/zrhoam
+sn: Rhoam
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1039
+uid: zrhoam
+
+
+
+dn: cn=Isamel Tharrats,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Isamel Tharrats
+givenName: Isamel
+gidNumber: 502
+homeDirectory: /home/users/itharrats
+sn: Tharrats
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1040
+uid: itharrats
+
+
+
+dn: cn=Boris Slav,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Boris Slav
+givenName: Boris
+gidNumber: 502
+homeDirectory: /home/users/bslav
+sn: Slav
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1041
+uid: bslav
+
+
+
+dn: cn=Myeong Suk,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Myeong Suk
+givenName: Myeong
+gidNumber: 502
+homeDirectory: /home/users/msuk
+sn: Suk
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1042
+uid: msuk
+
+
+
+dn: cn=Saburo Arasaka,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Saburo Arasaka
+givenName: Saburo
+gidNumber: 502
+homeDirectory: /home/users/sarasaka
+sn: Arasaka
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1043
+uid: sarasaka
+
+
+
+dn: cn=Greg Kroah,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Greg Kroah
+givenName: Greg
+gidNumber: 502
+homeDirectory: /home/users/gkroah
+sn: Kroah
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1044
+uid: gkroah
+
+
+
+dn: cn=Robert Moore,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Robert Moore
+givenName: Robert
+gidNumber: 502
+homeDirectory: /home/users/rmoore
+sn: Moore
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1045
+uid: rmoore
+
+
+
+dn: cn=Yangtao Li,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Yangtao Li
+givenName: Yangtao
+gidNumber: 502
+homeDirectory: /home/users/yli
+sn: Li
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1046
+uid: yli
+
+
+
+dn: cn=Joerg Roedel,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Joerg Roedel
+givenName: Joerg
+gidNumber: 504
+homeDirectory: /home/users/jroedel
+sn: Roedel
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1047
+uid: jroedel
+
+
+
+
+dn: cn=JL Pavon,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: JL Pavon
+givenName: JL
+gidNumber: 504
+homeDirectory: /home/users/jpavon
+sn: Pavon
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1048
+uid: jpavon
+
+
+
+dn: cn=Manel Mellado,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Manel Mellado
+givenName: Manel
+gidNumber: 504
+homeDirectory: /home/users/mmellado
+sn: Mellado
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1049
+uid: mmellado
+
+
+
+dn: cn=Linus Torvalds,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Linus Torvalds
+givenName: Linus
+gidNumber: 504
+homeDirectory: /home/users/ltorvalds
+sn: Torvalds
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1050
+uid: ltorvalds
+
+
+
+dn: cn=Tom Lendacky,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Tom Lendacky
+givenName: Tom
+gidNumber: 503
+homeDirectory: /home/users/tlendacky
+sn: Lendacky
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1051
+uid: tlendacky
+
+
+
+dn: cn=Jiri Pirko,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Jiri Pirko
+givenName: Jiri
+gidNumber: 503
+homeDirectory: /home/users/jpirko
+sn: Pirko
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1052
+uid: jpirko
+
+
+
+dn: cn=Ben Skeggs,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Ben Skeggs
+givenName: Ben
+gidNumber: 503
+homeDirectory: /home/users/bskeggs
+sn: Skeggs
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1053
+uid: bskeggs
+
+
+
+dn: cn=Chun Kuang-Hu,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Chun Kuang-Hu
+givenName: Chun
+gidNumber: 503
+homeDirectory: /home/users/ckuang-hu
+sn: Kuang-Hu
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1054
+uid: ckuang-hu
+
+
+
+dn: cn=Guo Ren,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Guo Ren
+givenName: Guo
+gidNumber: 503
+homeDirectory: /home/users/gren
+sn: Ren
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1055
+uid: gren
+
+
+
+dn: cn=Chanwoo Choi,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Chanwoo Choi
+givenName: Chanwoo
+gidNumber: 503
+homeDirectory: /home/users/cchoi
+sn: Choi
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1056
+uid: cchoi
+
+
+
+dn: cn=Myung Juu-Ham,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Myung Juu-Ham
+givenName: Myung
+gidNumber: 503
+homeDirectory: /home/users/mjuu-ham
+sn: Juu-Ham
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1057
+uid: mjuu-ham
+
+
+
+dn: cn=Kyunmin Park,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Kyunmin Park
+givenName: Kyunmin
+gidNumber: 503
+homeDirectory: /home/users/kpark
+sn: Park
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1058
+uid: kpark
+
+
+
+dn: cn=Jan Mirangle,ou=usuaris,ou=passius,dc=saia,dc=cat
+cn: Jan Mirangle
+givenName: Jan
+gidNumber: 506
+homeDirectory: /home/users/jmirangle
+sn: Mirangle
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1059
+uid: jmirangle
+
+
+
+dn: cn=Josep Carrera,ou=usuaris,ou=passius,dc=saia,dc=cat
+cn: Josep Carrera
+givenName: Josep
+gidNumber: 506
+homeDirectory: /home/users/jcarrera
+sn: Carrera
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1060
+uid: jcarrera
+
+
+
+dn: cn=Linus Bastian,ou=usuaris,ou=passius,dc=saia,dc=cat
+cn: Linus Bastian
+givenName: Linus
+gidNumber: 507
+homeDirectory: /home/users/lbastian
+sn: Bastian
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1061
+uid: lbastian
+
+
+
+dn: cn=Mental Outlaw,ou=usuaris,ou=passius,dc=saia,dc=cat
+cn: Mental Outlaw
+givenName: Mental
+gidNumber: 507
+homeDirectory: /home/users/moutlaw
+sn: Outlaw
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1062
+uid: moutlaw
+
+
+
+dn: cn=Joan Dausa,ou=usuaris,ou=passius,dc=saia,dc=cat
+cn: Joan Dausa
+givenName: Joan
+gidNumber: 507
+homeDirectory: /home/users/jdausa
+sn: Dausa
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1063
+uid: jdausa
+
+
+
+dn: cn=Nathan Evans,ou=usuaris,ou=passius,dc=saia,dc=cat
+cn: Nathan Evans
+givenName: Nathan
+gidNumber: 507
+homeDirectory: /home/users/nevans
+sn: Evans
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1064
+uid: nevans
+
+
+
+dn: cn=Sara Munoz,ou=usuaris,ou=passius,dc=saia,dc=cat
+cn: Sara Munoz
+givenName: Sara
+gidNumber: 507
+homeDirectory: /home/users/smunoz
+sn: Munoz
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1065
+uid: smunoz
+
+
+
+dn: cn=Mireia Huatay,ou=usuaris,ou=passius,dc=saia,dc=cat
+cn: Mireia Huatay
+givenName: Mireia
+gidNumber: 507
+homeDirectory: /home/users/mhuatay
+sn: Huatay
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1066
+uid: mhuatay
+
+
+
+dn: cn=David Encinas,ou=usuaris,ou=passius,dc=saia,dc=cat
+cn: David Encinas
+givenName: David
+gidNumber: 507
+homeDirectory: /home/users/dencinas
+sn: Encinas
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1067
+uid: dencinas
+
+
+
+dn: cn=Dani Porres,ou=usuaris,ou=passius,dc=saia,dc=cat
+cn: Dani Porres
+givenName: Dani
+gidNumber: 507
+homeDirectory: /home/users/dporres
+sn: Porres
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1068
+uid: dporres
+
+
+
+dn: cn=JM Vinoles,ou=usuaris,ou=passius,dc=saia,dc=cat
+cn: JM Vinoles
+givenName: JM
+gidNumber: 507
+homeDirectory: /home/users/jvinoles
+sn: Vinoles
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1069
+uid: jvinoles
+
+
+
+dn: cn=Cor Petit,ou=usuaris,ou=passius,dc=saia,dc=cat
+cn: Cor Petit
+givenName: Cor
+gidNumber: 507
+homeDirectory: /home/users/cpetit
+sn: Petit
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1070
+uid: cpetit
+
+
+
+dn: cn=Esther Montso,ou=usuaris,ou=passius,dc=saia,dc=cat
+cn: Esther Montso
+givenName: Esther
+gidNumber: 508
+homeDirectory: /home/users/emontso
+sn: Montso
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1071
+uid: emontso
+
+
+
+dn: cn=Guillem Agullo,ou=usuaris,ou=passius,dc=saia,dc=cat
+cn: Guillem Agullo
+givenName: Guillem
+gidNumber: 508
+homeDirectory: /home/users/gagullo
+sn: Agullo
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1072
+uid: gagullo
+
+
+
+dn: cn=Tanaka Nakamura,ou=usuaris,ou=passius,dc=saia,dc=cat
+cn: Tanaka Nakamura
+givenName: Tanaka
+gidNumber: 508
+homeDirectory: /home/users/tnakamura
+sn: Nakamura
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1073
+uid: tnakamura
+
+
+
+dn: cn=Joan Tugas,ou=usuaris,ou=passius,dc=saia,dc=cat
+cn: Joan Tugas
+givenName: Joan
+gidNumber: 508
+homeDirectory: /home/users/jtugas
+sn: Tugas
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1074
+uid: jtugas
+
+
+
+dn: cn=Megumin kall,ou=usuaris,ou=passius,dc=saia,dc=cat
+cn: Megumin kall
+givenName: Megumin
+gidNumber: 508
+homeDirectory: /home/users/mkall
+sn: kall
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1075
+uid: mkall
+
+
+
+dn: cn=Kazuma Su,ou=usuaris,ou=passius,dc=saia,dc=cat
+cn: Kazuma Su
+givenName: Kazuma
+gidNumber: 508
+homeDirectory: /home/users/ksu
+sn: Su
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1076
+uid: ksu
+
+
+
+dn: cn=Pau Diesel,ou=usuaris,ou=passius,dc=saia,dc=cat
+cn: Pau Diesel
+givenName: Pau
+gidNumber: 508
+homeDirectory: /home/users/pdiesel
+sn: Diesel
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1077
+uid: pdiesel
+
+
+
+dn: cn=Rhoam Bosphor,ou=usuaris,ou=passius,dc=saia,dc=cat
+cn: Rhoam Bosphor
+givenName: Rhoam
+gidNumber: 508
+homeDirectory: /home/users/rbosphor
+sn: Bosphor
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1078
+uid: rbosphor
+
+
+
+dn: cn=Jordi Ponts,ou=usuaris,ou=passius,dc=saia,dc=cat
+cn: Jordi Ponts
+givenName: Jordi
+gidNumber: 508
+homeDirectory: /home/users/jponts
+sn: Ponts
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1079
+uid: jponts
+
+
+
+dn: cn=Victor Martinez,ou=usuaris,ou=passius,dc=saia,dc=cat
+cn: Victor Martinez
+givenName: Victor
+gidNumber: 508
+homeDirectory: /home/users/vmartinez
+sn: Martinez
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1080
+uid: vmartinez
+
+
+
+dn: cn=Helena Ramirez,ou=usuaris,ou=passius,dc=saia,dc=cat
+cn: Helena Ramirez
+givenName: Helena
+gidNumber: 509
+homeDirectory: /home/users/hramirez
+sn: Ramirez
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1081
+uid: hramirez
+
+
+
+dn: cn=Dan Triano,ou=usuaris,ou=passius,dc=saia,dc=cat
+cn: Dan Triano
+givenName: Dan
+gidNumber: 509
+homeDirectory: /home/users/dtriano
+sn: Triano
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1082
+uid: dtriano
+
+
+
+dn: cn=Natalia Lopez,ou=usuaris,ou=passius,dc=saia,dc=cat
+cn: Natalia Lopez
+givenName: Natalia
+gidNumber: 509
+homeDirectory: /home/users/nlopez
+sn: Lopez
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1083
+uid: nlopez
+
+
+
+dn: cn=Paula Romero,ou=usuaris,ou=passius,dc=saia,dc=cat
+cn: Paula Romero
+givenName: Paula
+gidNumber: 509
+homeDirectory: /home/users/promero
+sn: Romero
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1084
+uid: promero
+
+
+
+dn: cn=Joana Lopez,ou=usuaris,ou=passius,dc=saia,dc=cat
+cn: Joana Lopez
+givenName: Joana
+gidNumber: 509
+homeDirectory: /home/users/jlopez
+sn: Lopez
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1085
+uid: jlopez
+
+
+
+dn: cn=Jens Axboe,ou=usuaris,ou=passius,dc=saia,dc=cat
+cn: Jens Axboe
+givenName: Jens
+gidNumber: 509
+homeDirectory: /home/users/jaxboe
+sn: Axboe
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1086
+uid: jaxboe
+
+
+
+dn: cn=Mark Rutland,ou=usuaris,ou=passius,dc=saia,dc=cat
+cn: Mark Rutland
+givenName: Mark
+gidNumber: 509
+homeDirectory: /home/users/mrutland
+sn: Rutland
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1087
+uid: mrutland
+
+
+
+dn: cn=Michael Grzesik,ou=usuaris,ou=passius,dc=saia,dc=cat
+cn: Michael Grzesik
+givenName: Michael
+gidNumber: 509
+homeDirectory: /home/users/mgrzesik
+sn: Grzesik
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1088
+uid: mgrzesik
+
+
+
+dn: cn=Will Deacon,ou=usuaris,ou=passius,dc=saia,dc=cat
+cn: Will Deacon
+givenName: Will
+gidNumber: 509
+homeDirectory: /home/users/wdeacon
+sn: Deacon
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1089
+uid: wdeacon
+
+
+
+dn: cn=Rusell King,ou=usuaris,ou=passius,dc=saia,dc=cat
+cn: Rusell King
+givenName: Rusell
+gidNumber: 509
+homeDirectory: /home/users/rking
+sn: King
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1090
+uid: rking
+
+
+
+dn: cn=Jim Cromie,ou=usuaris,ou=passius,dc=saia,dc=cat
+cn: Jim Cromie
+givenName: Jim
+gidNumber: 505
+homeDirectory: /home/users/jcromie
+sn: Cromie
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1091
+uid: jcromie
+
+
+
+dn: cn=Leo Li,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Leo Li
+givenName: Leo
+gidNumber: 503
+homeDirectory: /home/users/lli
+sn: Li
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1092
+uid: lli
+
+
+
+dn: cn=Ryusuke Konishi,ou=usuaris,ou=actius,dc=saia,dc=cat
+cn: Ryusuke Konishi
+givenName: Ryusuke
+gidNumber: 503
+homeDirectory: /home/users/rkonishi
+sn: Konishi
+loginShell: /bin/sh
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: top
+uidNumber: 1093
+uid: rkonishi
