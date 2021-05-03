@@ -13,6 +13,11 @@ a.llista {
   width: 22%;
 }
 
+.w3-hoverable-custom tbody tr:hover,.w3-ul.w3-hoverable-custom li:hover {
+  background-color:#ddd;
+  color: #333;
+}
+
 ﻿/* W3.CSS 4.15 December 2020 by Jan Egil and Borge Refsnes */
 html {
   box-sizing:border-box

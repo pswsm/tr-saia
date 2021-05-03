@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=1080, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Que Fem?</title>
+  <link rel="stylesheet" href="css/master.css">
+  <link rel="stylesheet" href="css/w3.css">
+  <script src="scripts/sidebar.js" charset="utf-8"></script>
+</head>
+<body>
+  <!-- Sidebar BS -->
+  <div class="w3-sidebar w3-bar-block w3-card w3-animate-left w3-black" style="display:none" id="mySidebar">
+    <button class="w3-bar-item w3-button w3-large" onclick="w3_close()">Close &times;</button>
+    <img src="logos/aaaaaaTrueTrueSAIA.gif" alt="Logo SAIA S.A">
+    <a href="index.html" class="w3-bar-item w3-button">Home</a>
+    <a href="#" class="w3-bar-item w3-button">Qui Som?</a>
+    <a href="#" class="w3-bar-item w3-button">Que Fem?</a>
+  </div>
+  <div id="main">
+    <div class="w3-black">
+      <button id="openNav" class="w3-button w3-large" onclick="w3_open()">&#9776;</button>
+      <div class="w3-container w3-right w3-float">
+        <img src="logos/aaaaaaTrueTrueSAIA.gif" alt="Logo SAIA S.A">
+      </div>
+    </div>
+    <!-- <hr> -->
+    <div class="w3-container w3-xxlarge w3-center">
+      <p>Que Fem?</p>
+    </div>
+    <!-- <hr> -->
+    <div class="w3-container">
+      <table class="w3-table w3-black w3-bordered w3-border">
+        <tr>
+          <th>Empreses</th>
+          <th>Universitats</th>
+          <th>Escoles i Instituts</th>
+        </tr>
+        <tr>
+          <td>
+            Les empreses poden contractar l'us d'un percentatge del nostre OAL durant un temps determinat per a realitzar les investigacions, simulacions o operacions que necessitin, com per exemple:
+            <ul class="w3-ul">
+              <li>Estudis de mercat complexes</li>
+              <li>Simulacions d'interaccions entre microorganismes</li>
+              <li>Algoritmes complexes</li>
+            </ul>
+            <br>
+            Per a més informació, podeu enviar un correu a: <a href="mailto:empreses@saia.cat?subject=InfoEmpreses">empreses@saia.cat</a>
+          </td>
+          <td>
+            Les universitats podran fer ús dels nostres sistemes a un preu reduït, ja que considerem que l'educació i l'investigació pública és molt important per a l'espècie humana.<br>Tenim relacions amb universitats d'alta categoria com per exemple l'<a href="https://www.upc.edu" target="_blank">UPC</a>, l'<a href="https://www.upm.es" target="_blank">UPM</a> o el <a href="https://www.titech.ac.jp/english/"><i>Tokyo Institute of Technology</i></a>.
+            <br>
+            Per a mes informació, podeu enviar un correu a: <a href="mailto:unis@saia.cat?subject=InfoUnis">unis@saia.cat</a>
+          </td>
+          <td>
+            Per a les escoles, intitus i altres entitas de formació oferim guies per les nostres instaŀlacions i interaccions amb la IA. Això és especialment interessant per a nosaltres, ja que la nostra inteŀligència artificial no ha pogut interactuar gaire amb infants, i pot produïr resultats interessants.<br>Aquestes interaccions, obviament, necessitaran de prévia autorització dels tutors dels joves.
+            <br>
+            Per a més informació, podeu enviar un correu a: <a href="mailto:escoles@saia.cat?subject=InfoEscoles">escoles@saia.cat</a>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</body>
+</html>
