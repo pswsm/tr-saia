@@ -1,5 +1,9 @@
 /* Custom */
 
+.margin-dcents {
+  margin: auto 200px;
+}
+
 .pau-right {
   float: right!important;
   display: block;
