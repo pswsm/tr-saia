@@ -7,8 +7,8 @@ iptables -t nat -F
 iptables -P INPUT DROP
 iptables -P OUTPUT DROP
 iptables -P FORWARD DROP
-iptables -t nat -P PREROUTING DROP
-iptables -t nat -P POSTROUTING DROP
+iptables -t nat -P PREROUTING ACCEPT
+iptables -t nat -P POSTROUTING ACCEPT
 #Activem tots els ports necessaris:
 iptables -A FORWARD -s 192.168.0.0/24 -m multiport -p tcp --dport 21,22,80,8080,443 -j ACCEPT
 #No podran fer ping desde fora ni al firewall ni a la xarxa:
